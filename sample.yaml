@@ -1,11 +1,11 @@
 ---
 *State_Bank_Of_India   #Bank name
-            Date: 27/07/2022
+            Date: 27/07/2022  #valid for 1 month
 
-Pay: Akshay Bhokare   #Name of the Payee
+*Pay: X Y Z         #Name of the Payee
   
-   Amount in digit: 5000 /-   #Total Amount
-   Amount in written: Five thousand rupees only
+   Amount in digit: 5000   #Total Amount
+   Amount in written: Five thousand rupees
 
 Mobile No.: 7507722588
 
