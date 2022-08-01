@@ -1,0 +1,26 @@
+stages:
+  - pull 
+  - build
+  - test
+  - deploy
+
+pullphase:
+  stage: pull 
+  script:
+    - echo "pull completed"
+
+buildphase:
+  stage: build
+  script:
+    - echo "build completed"
+
+testphase:
+   stage: test
+   script: 
+     - echo "test completed"
+
+deployphase:
+    stage: deploy
+    script":
+      - echo "deploy completed"   
+  
